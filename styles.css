@@ -127,7 +127,7 @@ img.background {
 .maximize-icon {
     position: relative;
     top: 2px;
-    left: 1px;
+    left: 0px;
 }
 
 .close-icon {
